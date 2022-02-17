@@ -2,7 +2,7 @@
 title: TestMd
 date: 2018-09-07 09:25:00
 author: Jerry
-categories: [OkHttp, RxJava, Retrofit, Glide]
+categories: [java, android, kotlin]
 tags: [OkHttp, RxJava, Retrofit, Glide]
 ---
 
