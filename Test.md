@@ -8,4 +8,4 @@ tags: [OkHttp, RxJava, Retrofit, Glide]
 
 ## Test一下图片
 
-![image-20220217164001746](aaa.png)
+![test](test.png)
