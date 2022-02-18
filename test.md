@@ -8,9 +8,7 @@ tags: [OkHttp, RxJava, Retrofit, Glide]
 
 ## Test一下图片
 
-​		![](test.png)
-
-​	
+​	![](test/test.png)
 
 图片显示完毕
 
